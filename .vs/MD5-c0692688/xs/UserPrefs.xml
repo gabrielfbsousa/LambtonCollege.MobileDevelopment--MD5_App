@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C7820168-1C53-4868-B4E8-D8CAC7B8B84E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MD5-c0692688/Resources/layout/Main.axml">
+    <Files>
+      <File FileName="MD5-c0692688/MainActivity.cs" Line="51" Column="74" />
+      <File FileName="MD5-c0692688/Resources/layout/Main.axml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MD5-c0692688" expanded="True">
+            <Node name="MD5-c0692688" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="Main.axml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MD5-c0692688 PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

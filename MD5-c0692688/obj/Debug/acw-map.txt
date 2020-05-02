@@ -1,0 +1,4 @@
+MD5c0692688.MainActivity, MD5-c0692688;md5311cfe5a12fbb629282981facecbab59.MainActivity
+MD5c0692688.MainActivity, MD5-c0692688, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5311cfe5a12fbb629282981facecbab59.MainActivity
+MD5c0692688.MainActivity;md5311cfe5a12fbb629282981facecbab59.MainActivity
+md5c0692688.MainActivity;md5311cfe5a12fbb629282981facecbab59.MainActivity
